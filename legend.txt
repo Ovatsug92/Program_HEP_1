@@ -1,0 +1,16 @@
+Donde:
+N: 	Nombre de la partícula
+q: 	Contenido de Quarks
+M: 	Masa 
+Q:	Carga
+B:	Número bariónico
+L:	Número leptónico (electrónico, taónico o muónico)
+P:	Paridad
+s:	Spín
+I:	Isospín
+I3:	Proyección del Isospín en el eje z
+S:	Número cuántico "Strange"
+U:	Número cuántico "Up"
+D:	Número cuántico "Down"
+
+
